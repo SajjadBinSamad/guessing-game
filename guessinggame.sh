@@ -1,5 +1,4 @@
-#!/usr/bin/bash env
-#File: guessinggame.sh
+
 
 function filescounter () {
 ls | wc -l 
